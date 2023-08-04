@@ -34,7 +34,7 @@ which will save the output files as `MasterList_2023_reference_template_adjusted
 * Copy the output files(e.g. `MasterList_2023_reference_template_adjusted` and `MasterList_2023_best_template_adjusted`) to `./structures` directory
 
 ```
-cp {MasterList_2023_reference_template_adjusted,MasterList_2023_best_template_adjusted} ../../structures/
+cp {MasterList_2023_reference_template_adjusted,MasterList_2023_best_template_adjusted} ../structures/
 ```
 
 ### Step 1: Build structures from sequences 
