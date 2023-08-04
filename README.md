@@ -7,7 +7,7 @@ This model is the adapted version of [RACER](https://github.com/XingchengLin/RAC
 
 * Clone the RACER-m repository
 ```
-git clone https://github.com/ellenfidele/RACER_v2_precise_template.git
+git clone https://github.com/ellenfidele/RACER-multi_template.git
 ```
 
 ### Python version
