@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/674437478.svg)](https://zenodo.org/badge/latestdoi/674437478)
+
 # RACER-m
 Rapid Coarse-grained Epitope TCR Model(multi-template)
 
